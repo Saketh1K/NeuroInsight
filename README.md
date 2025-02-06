@@ -1,6 +1,3 @@
-<h1 align="center"> NeuroCure </h1>
-
-![NeuroCure Logo](https://github.com/ParagGhatage/NeuroCure/blob/main/frontend/public/pexels-googledeepmind-17483868.jpg) 
 
 Overview
 NeuroInsight is an advanced brain tumor detection and classification project that leverages deep learning techniques for precise medical image analysis. Utilizing TensorFlow and custom machine learning models, NeuroInsight aims to enhance diagnostic accuracy and assist healthcare professionals in detecting brain tumors from MRI scans efficiently.
@@ -93,7 +90,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository**:
    ```
    bash
-   git clone https://github.com/
+   git clone https://github.com/Saketh1K/Neuro_Insight.git
    cd NeuroInsight
    pip install -r requirements.txt
    cd frontend
