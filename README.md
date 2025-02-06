@@ -93,7 +93,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository**:
    ```
    bash
-   git clone https://github.com/Saketh1K/Neuro_Insight.git
+   git clone https://github.com/ParagGhatage/NeuroCure/blob/main/frontend/public/pexels-googledeepmind-17483868.jpg
    cd NeuroInsight
    pip install -r requirements.txt
    cd frontend
