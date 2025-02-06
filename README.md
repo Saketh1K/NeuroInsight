@@ -1,3 +1,6 @@
+<h1 align="center"> NeuroInsight </h1>
+
+![NeuroInsight_ Logo](https://github.com/ParagGhatage/NeuroCure/blob/main/frontend/public/pexels-googledeepmind-17483868.jpg) 
 
 Overview
 NeuroInsight is an advanced brain tumor detection and classification project that leverages deep learning techniques for precise medical image analysis. Utilizing TensorFlow and custom machine learning models, NeuroInsight aims to enhance diagnostic accuracy and assist healthcare professionals in detecting brain tumors from MRI scans efficiently.
